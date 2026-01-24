@@ -1,75 +1,75 @@
-# Customer Contracts – Process Improvement & Digitalization Project
+# Contratos de Clientes – Projeto de Melhoria e Digitalização de Processos
 
-## Project Overview
-This project focuses on the **end-to-end improvement and digitalization of customer contract management processes**.  
-The objective is to standardize workflows, improve operational efficiency, and enhance usability through structured process analysis and digital transformation.
+## Visão Geral
+Este projeto tem como objetivo a **melhoria e digitalização do processo de gestão de contratos de clientes**, por meio da análise de processos, padronização de fluxos e definição de indicadores de desempenho.
 
-The project simulates a **real-world organizational process improvement initiative**, applying project management and continuous improvement practices.
+A iniciativa foi conduzida como um **projeto independente de ponta a ponta**, simulando um contexto real de atuação em análise de processos, gestão de projetos e melhoria contínua.
 
----
 
-## Objectives
-- Analyze the current customer contract management process
-- Identify operational gaps and inefficiencies
-- Design standardized and scalable workflows
-- Digitize contract-related processes
-- Define KPIs to monitor performance and continuous improvement
 
----
+## Objetivos
+- Analisar o processo atual de gestão de contratos
+- Identificar gargalos operacionais e riscos no fluxo
+- Padronizar regras e procedimentos
+- Digitalizar o processo para ganho de eficiência e organização
+- Definir indicadores para acompanhamento e evolução contínua
 
-## Project Scope
 
-### In Scope
-- End-to-end project execution (diagnosis to continuous improvement)
-- Process mapping (**AS IS / TO BE**)
-- Definition of operational rules and standardized workflows
-- Implementation of the redesigned process
-- KPI definition and monitoring
-- Digitalization of contract management processes
 
-### Out of Scope
-- Legal contract drafting
-- Software development
-- Complex system integrations
+## 🧩 Escopo do Projeto
 
----
+### Inclui
+- Diagnóstico do processo atual (**AS IS**)
+- Mapeamento e redesenho do processo (**TO BE**)
+- Definição de regras operacionais e fluxos padronizados
+- Implantação do processo redesenhado
+- Definição e acompanhamento de **KPIs**
+- Digitalização do processo implantado
 
-## Methodology
-- Process analysis (AS IS / TO BE)
-- Workflow standardization
-- Continuous improvement practices
-- KPI definition and monitoring
-- Digital process enablement
+### Não Inclui
+- Desenvolvimento de sistemas
+- Integrações com plataformas externas
+- Automação avançada por código
 
----
 
-## Key Metrics (KPIs)
-Examples of defined indicators:
-- Contract processing time
-- Number of contracts processed per period
-- Error and rework rate
-- Process adherence rate
-- User adoption rate of digital tools
+
+## Metodologia
+- Análise de processos (AS IS / TO BE)
+- Padronização de fluxos operacionais
+- Abordagem de melhoria contínua
+- Definição de indicadores de desempenho
+- Digitalização orientada à usabilidade
 
 ---
 
-## Role & Responsibilities
-- End-to-end project ownership as a **Project Analyst**
-- Process diagnosis and documentation
-- Solution design and implementation support
-- Performance monitoring through KPIs
-- Support for process evolution and optimization
+## Indicadores de Desempenho (KPIs)
+Exemplos de indicadores definidos no projeto:
+- Tempo médio de formalização de contratos
+- Taxa de retrabalho
+- Volume de contratos processados
+- Aderência ao fluxo definido
+- Organização e acessibilidade da informação
 
----
 
-## Expected Outcomes
-- Reduced contract processing time
-- Increased operational efficiency
-- Improved process clarity and standardization
-- Enhanced usability through digital workflows
-- Better visibility and control over contract lifecycle
 
----
+## Papel no Projeto
+- Atuação como **Analista de Projetos**
+- Condução do projeto de ponta a ponta
+- Mapeamento e redesenho de processos
+- Implantação e acompanhamento por indicadores
+- Suporte à evolução do modelo digital
 
-## Notes
-This project demonstrates practical experience in **process improvement, digital transformation, and project execution**, aligned with real organizational needs and project management best practices.
+
+
+## Resultados Esperados
+- Maior eficiência operacional no processo de contratos
+- Redução de erros e retrabalho
+- Padronização e organização das informações
+- Melhoria da usabilidade e acesso aos documentos
+- Base estruturada para evolução e automação futura
+
+
+
+##  Considerações Finais
+Este projeto demonstra a aplicação prática de **gestão de projetos, melhoria de processos e digitalização**, com foco em eficiência operacional, organização e experiência do usuário.
+
