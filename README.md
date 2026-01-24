@@ -1,6 +1,6 @@
-# 📄 Customer Contracts – Process Improvement & Digitalization Project
+# Customer Contracts – Process Improvement & Digitalization Project
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on the **end-to-end improvement and digitalization of customer contract management processes**.  
 The objective is to standardize workflows, improve operational efficiency, and enhance usability through structured process analysis and digital transformation.
 
@@ -8,7 +8,7 @@ The project simulates a **real-world organizational process improvement initiati
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze the current customer contract management process
 - Identify operational gaps and inefficiencies
 - Design standardized and scalable workflows
@@ -17,7 +17,7 @@ The project simulates a **real-world organizational process improvement initiati
 
 ---
 
-## 🧩 Project Scope
+## Project Scope
 
 ### In Scope
 - End-to-end project execution (diagnosis to continuous improvement)
@@ -34,7 +34,7 @@ The project simulates a **real-world organizational process improvement initiati
 
 ---
 
-## 🧠 Methodology
+## Methodology
 - Process analysis (AS IS / TO BE)
 - Workflow standardization
 - Continuous improvement practices
@@ -43,7 +43,7 @@ The project simulates a **real-world organizational process improvement initiati
 
 ---
 
-## 📊 Key Metrics (KPIs)
+## Key Metrics (KPIs)
 Examples of defined indicators:
 - Contract processing time
 - Number of contracts processed per period
@@ -53,7 +53,7 @@ Examples of defined indicators:
 
 ---
 
-## 🧑‍💼 Role & Responsibilities
+## Role & Responsibilities
 - End-to-end project ownership as a **Project Analyst**
 - Process diagnosis and documentation
 - Solution design and implementation support
@@ -62,7 +62,7 @@ Examples of defined indicators:
 
 ---
 
-## 🚀 Expected Outcomes
+## Expected Outcomes
 - Reduced contract processing time
 - Increased operational efficiency
 - Improved process clarity and standardization
@@ -71,5 +71,5 @@ Examples of defined indicators:
 
 ---
 
-## 📎 Notes
+## Notes
 This project demonstrates practical experience in **process improvement, digital transformation, and project execution**, aligned with real organizational needs and project management best practices.
